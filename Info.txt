@@ -1,0 +1,3 @@
+YugAI - (Yug = era / young + AI) – symbolizes the new age of smart, mobile-friendly LLMs.
+
+Byte-Pair-Encoding - Copresses texts into samll tokens
