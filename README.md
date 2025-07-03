@@ -7,12 +7,12 @@ YugAI is a mobile-friendly, GPT-inspired **Small Language Model (SLM)** designed
 
 ## 🚀 Features
 
-- 🧠 Lightweight architecture with **13.78M parameters**
-- 📱 Mobile & edge-device friendly
-- 🔤 Tokenized using **Byte Pair Encoding (BPE)**
-- 🛠️ Fine-tuned for customer support scenarios
-- 💾 Memory-efficient: uses >90% memory but avoids out-of-memory issues
-- 📊 GFLOPs Theoretical Performance: **7.99 TFLOPs (~0.0079 PFLOPs)**
+- Lightweight architecture with **13.78M parameters**
+- Mobile & edge-device friendly
+- Tokenized using **Byte Pair Encoding (BPE)**
+- Fine-tuned for customer support scenarios
+- Memory-efficient: uses >90% memory but avoids out-of-memory issues
+- GFLOPs Theoretical Performance: **7.99 TFLOPs (~0.0079 PFLOPs)**
 
 ---
 
